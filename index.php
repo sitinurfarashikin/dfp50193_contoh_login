@@ -14,5 +14,6 @@
         <input type="password" name="katalaluan" id="katalaluan"> 
         <button type="submit">MASUK</button> 
     </form> 
+    <p><a href="resetpassword.php">Reset Password</a></p>
 </body>
 </html>
